@@ -4073,6 +4073,28 @@ h6 {
   color: #222222;
   background: #fab700;
 }
+section .extension .extensible h3 {
+	padding: 15px 20px;
+	background-color: #FFFFFF;
+	cursor: pointer;
+
+
+}
+
+section .extension .extensible.extended h3 .bullet {
+	background-position: 0px -8px;
+}
+
+section .extension .extensible .description {
+	display: none;
+	padding: 10px 40px;
+}
+
+
+
+
+
+
 
 /*---------------------------------------------------- */
 
