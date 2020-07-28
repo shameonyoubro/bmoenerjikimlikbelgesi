@@ -1,36 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://bmoenerjikimlikbelgesi.com/</loc>
-  <lastmod>2020-03-27T22:37:22+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>http://bmoenerjikimlikbelgesi.com/index.html</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-07-28</lastmod>
 </url>
 <url>
-  <loc>https://bmoenerjikimlikbelgesi.com/index.html</loc>
-  <lastmod>2020-03-27T22:37:22+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://bmoenerjikimlikbelgesi.com/about-us.html</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-07-28</lastmod>
 </url>
 <url>
-  <loc>https://bmoenerjikimlikbelgesi.com/about-us.html</loc>
-  <lastmod>2020-03-27T22:37:22+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://bmoenerjikimlikbelgesi.com/about-us2.html</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-07-28</lastmod>
 </url>
 <url>
-  <loc>https://bmoenerjikimlikbelgesi.com/about-us2.html</loc>
-  <lastmod>2020-03-27T22:37:22+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://bmoenerjikimlikbelgesi.com/contact.html</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-07-28</lastmod>
 </url>
 <url>
-  <loc>https://bmoenerjikimlikbelgesi.com/contact.html</loc>
-  <lastmod>2020-03-27T22:37:22+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://bmoenerjikimlikbelgesi.com/tel:05456585224</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-07-28</lastmod>
 </url>
-
-
+<url>
+  <loc>http://bmoenerjikimlikbelgesi.com/tel:05395791792</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-07-28</lastmod>
+</url>
+<url>
+  <loc>http://bmoenerjikimlikbelgesi.com/</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-07-28</lastmod>
+</url>
 </urlset>
